@@ -34,7 +34,7 @@ local function toggle()
 end
 
 local function showNotification()
-    game.StarterGui:SetCore("SendNotification", {Title = "Manual Spam", Text = "Made By Davi A.K.A. Second Cousin", Duration = 5})
+    game.StarterGui:SetCore("SendNotification", {Title = "Manual Spam", Text = "Made By Dat Mod", Duration = 5})
 end
 
 button.MouseButton1Click:Connect(function()
@@ -77,6 +77,6 @@ FOV()
 end)
 
 local Tab = Window:NewTab("| Credits |")
-local Section = Tab:NewSection("Made By Confusion")
-local Section = Tab:NewSection("Scripter Gustavo A.K.A. Cousin")
-local Section = Tab:NewSection("Subscribe To Me On Youtube https://m.youtube.com/channel/UCo1o1SfUjPmiED9uYS7wsdw/videos")
+local Section = Tab:NewSection("Made By Đạt Mod")
+local Section = Tab:NewSection("Idea : SumitScripts")
+local Section = Tab:NewSection("Subscribe To Me On Youtube @datmodd")
