@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/datshort1/DatModV3/main/library"))()
-local Window = Library.CreateLib("Blade Ball By Confusion x Gustavo A.K.A. Cousin", "DarkTheme")
+local Window = Library.CreateLib("Đạt Mod V3⚡ Idea : Sumitscripts", "Ocean")
 local Tab = Window:NewTab("| Main |")
 local Section = Tab:NewSection("Blade Ball")
 Section:NewButton("Auto Block/Auto Parry", "ButtonInfo", function()
